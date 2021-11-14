@@ -1,1 +1,0 @@
-https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDAyMjhfMTE3%2FMDAxNTgyODE3NjQwMjAy.ks4JMa_BOFjnxwPYmgecpv6pqzuUTiyQJMwT85GVrwcg.fOl7MH7YceqY5GM-G-5KrkIspPIlDfi0IpU4mEHgefwg.JPEG.whwhfksl%2FDNA_A%252CB%252CZ.jpg&type=sc960_832
