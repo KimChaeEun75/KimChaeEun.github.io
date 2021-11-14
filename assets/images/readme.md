@@ -1,1 +1,4 @@
-이미지 저장소입니다.
+### A-DNA, B-DNA, Z-DNA
+![A,B,Z-DNA][the type of DNA]
+[the type of DNA]: https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDAyMjhfMTE3%2FMDAxNTgyODE3NjQwMjAy.ks4JMa_BOFjnxwPYmgecpv6pqzuUTiyQJMwT85GVrwcg.fOl7MH7YceqY5GM-G-5KrkIspPIlDfi0IpU4mEHgefwg.JPEG.whwhfksl%2FDNA_A%252CB%252CZ.jpg&type=sc960_832
+Z-DNA 는 오른손 방향으로 회전하는  A-DNA 나  B-DNA 와 달리 왼손 방향으로 회전하는 구조를 가지고 있다.Z-DNA 는 전체적으로  B-DNA 에 비해 가늘고 긴 형태이다. 나선은 왼손 방향으로 회전하고 있으며, 나선 축은 작은 홈에 위치하고 있다. 나선의 직경은 18.4 Å으로 1.84  nm 에 해당하고, 나선 반복 당 염기쌍은 2쌍이다. 나선 회전 당 염기쌍은 약 12쌍으로, B-DNA 와 비교했을 때 더 가늘고 길며 당-인산 골격이 나선형보다는 지그재그형의 선을 형성하게 된다. 염기쌍 간의 거리는 3.8 Å이고 염기쌍 당 회전은 2 염기쌍 당 -60°이다. 나선 축에 대해 염기는 7° 기울어져 있다. 염기쌍의 평균 프로펠러 꼬임은 거의 없다. Z-DNA 는  A-DNA, B-DNA 와 달리 큰 홈과 작은 홈의 폭의 차이는 거의 없지만, 큰 홈은 나선 표면 위에 평평하게 있고 작은 홈은 매우 좁으며 깊은 특징이 있다.
